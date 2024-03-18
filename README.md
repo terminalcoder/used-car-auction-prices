@@ -1,3 +1,3 @@
-![car_lot img](images/car_lot2.jpg)
+![car_lot img](images/car_lot3.jpg)
 # Used Car Auction Prices
 
